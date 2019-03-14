@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">MainActivity</string>
+
+    <string name="title_activity_make_konitsa">MakeKonitsa</string>
+    <string name="action_settings">Settings</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+    <string name="title_activity_make_aristi">MakeAristi</string>
+
+    <string name="txt">Το βόρειο τμήμα της Ηπείρου είναι ένα από τα ομορφότερα μέρη της ηπειρωτικής
+        Ελλάδας. Η πίστη στην παράδοση αποτελεί πολιτιστική κληρονομιά για την ευρύτερη περιοχή και
+        είναι από τις κυριότερες αιτίες τουριστικής άνθησης. Μία επίσκεψη στα υπέροχα χωριά, σίγουρα
+        έχει να σου προσφέρει όμορφες εμπειρίες και χρήσιμες γνώσεις. Η εφαρμογή αυτή σας δίνει τη δυνατότητα
+        να πληροφορηθείτε για τον τόπο και να σας δώσει χρήσιμες συμβουλές. </string>
+    <string name="txt2">The north part of Epirus is one of the most beautiful places of the Greek mainland. The loyalty to tradition is cultural heritage for the place and is one of main reasons of the tourist growth. A visit to the wonderful villages will, for sure, offer you nice experiences but also useful knowledge. This application will inform you about this place and will give you useful advices. </string>
+    <string name="txt3">Το μήκος του ποταμού Αώου από τις πηγές(βουνά του Μετσόβου) μέχρι την Αδριατική θάλασσα είναι 260 χλμ, από τα οποία 70 περίπου στο ελληνικό έδαφος. Μπορείτε να επισκεφτείτε το παλιό πέτρινο, πασίγνωστο γεφύρι που αποτελεί πραγματικό αριστούργημα τεχνικής. Χτίστηκε το έτος 1823. Βρίσκεται και σήμερα σε άριστη κατάσταση. Επίσης άξια προσοχής είναι η χαράδρα του Αώου, με τη φυσική αγριάδα και την ασύγκριτη ομορφιά του τοπίου.  </string>
+    <string name="txt4">Η χαράδρα του Αώου βρίσκεται στη Βορειοδυτική ηπειρωτική Πίνδο, αποτελεί μνημείο φυσικής ομορφιάς, πλούσιας και σπάνιας χλωρίδας και πανίδας. Το μικρότερο υψόμετρο αυτής είναι 400μ. (γεφύρι Κόνιτσας), ενώ το μεγαλύτερο είναι 2032μ. για την οροσειρά του Σμόλικα και 2497 μ. για την οροσειρά της Τύμφης. Βασικό χαρακτηριστικό της είναι η έντονη ορεογραφική διαμόρφωση με τις απόκρημνες πλαγιές, τις μεγάλες κλίσεις και τις απρόσμενες εξάρσεις. Στην ευρύτερη περιοχή του Αώου, το δαιδαλώδες και η ορμητικότητα του ποταμού προσελκύουν πλήθη επισκεπτών και το καθιστούν μοναδικό για κανόε-καγιάκ. </string>
+    <string name="txt5">Το μοναστήρι της Μολυβδοσκεπαστής είναι το πιο γνωστό στην ευρύτερη περιοχή για τρεις λόγους. Πρώτον γιατί είναι το αρχαιότερο από τα σωζόμενα σήμερα στην περιοχή μοναστήρια, δεύτερο γιατί βρίσκεται στα σύνορα με τη Βόρειο Ήπειρο και τρίτο γιατί εκεί διαφυλάσσεται η θαυματουργή εικόνα της Παναγίας. Τη διαδρομή για το μοναστήρι την κάνει ευχάριστη ο Αώος ποταμός με την ομορφιά του και με τα άφθονα νερά του. Με την πρώτη ματιά διαπιστώνει ο επισκέπτης ότι το Μοναστήρι της Μολυβδοσκέπαστης είναι φορτωμένο από ιστορία και παράδοση. Διατηρεί το παλιό χρώμα των μοναστηρίων, παρόλες τις νεότερες επισκευαστικές εργασίες. Το μοναστήρι είναι χτισμένο σε πεδινό και ομαλό μέρος, πολύ κοντά στη συμβολή των ποταμών Αώου και Σαρανταπόρου.  </string>
+    <string name="txt6">Πεφήφανο, επιβλητικό, το Πάπιγκο έχει μία ολωσδιόλου δική του ομορφιά. Με προνομιακή τοποθεσία και περιβλημμένο από πελώριες βραχοσειρές. Εντός του χωριού η βλάστηση είναι πλούσια και τα σπίτια συγκεντρωμένα, όλα καλοχτισμένα με άσπρη πέτρα και σκεπασμένα με άσπρες και μαύρες πλάκες. Οι δρόμοι είναι πλακόστρωτοι και περιποιημένοι και το κλίμα ξερό. Στο κέντρο του χωριού είναι χτισμένη η εκκλησία του Αγίου Βλασίου που είναι ο πολιούχος του χωριού.</string>
+    <string name="txt7">River Aoos length, from the source up to the Adriatic Sea, is 260 kilometers. From those about 70 are on the greek field. There you can visit the old, famous, rock bridge which is an absolute technique masterpiece. It was built in year 1823. Until now it is in a great condition. Additionally, Aoos canyon is also really fun to watch. It has a physical wildness and an incomparable beauty.</string>
+    <string name="txt8">Aoos canyon, which is located in the northwestern Pindos, is a monument of physical beauty, with reach and rare flora and fauna. Its smallest altitude is 400 meters (Konitsa bridge), while its biggest is 2032 meters for Smolikas mountain range and 2497 meters for Timfi mountain range. One basic Aoos canyon`s characteristic is the intense stereographic configuration with the steep slopes, the big inclinations and the unexpected bouts. In the wider area of Aoos, the impulse of the river attract many visitors and makes it great for canoeing.</string>
+    <string name="txt9">The monastery of Molyboskapasti is the most famous in the wider region for three reasons. Firstly, because it is the oldest of the monasteries preserved today in the area, secondly because it is on the border with Northern Epirus and third because there is preserved the miraculous icon of the Virgin Mary. The path to the monastery makes Aoos river pleasant with its beauty and its abundant waters. At first glance the visitor finds out that the Monastery of Molyvdoskepasti is loaded with history and tradition. It retains the old color of the monasteries, despite the newer repairs. The monastery is built in a flat and smooth place, very close to the confluence of the Aoos and Sarantaporos rivers.</string>
+    <string name="txt10">Bright and imposing, Papigo has a totally unique beauty. With a privileged location and surrounded by sprawling rock formations. Inside the village the vegetation is rich and the houses are concentrated, all well-built with white stone and covered with white and black slabs. The streets are paved and groomed and the climate is dry. In the center of the village is built the church of Agios Vlasios, who is the patron saint of the village.</string>
+    <string-array name="interests">
+        <item>Αξιοθέατα</item>
+        <item>Γραφικά μέρη</item>
+        <item>Θρησκεία</item>
+        <item>Παραδοσιακές στολές</item>
+        <item>Ορεινές περιοχές</item>
+        <item>Ποτάμια/Φαράγγια</item>
+
+    </string-array>
+
+    <string-array name="interestseng">
+        <item>Landmarks</item>
+        <item>Picturesque scenery</item>
+        <item>Religion</item>
+        <item>Traditional uniforms</item>
+        <item>Mountainous places </item>
+        <item>Rivers/Canyons</item>
+
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>

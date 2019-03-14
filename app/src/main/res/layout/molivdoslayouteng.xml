@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/linear"
+    android:padding="10dp">
+
+    <TextView android:layout_marginTop="5dp"
+        android:id="@+id/txt"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:textSize="19sp"
+        android:textColor="@color/colorLightGreen"
+        android:background="@color/colorLightGrey"
+        android:text="  Monastery of Molyvdoskepasti"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        />
+    <TextView android:layout_marginTop="0dp"
+        android:id="@+id/txt2"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:gravity="clip_vertical"
+
+        android:textSize="12sp"
+        android:textColor="@color/colorLightGreen"
+        android:background="@color/colorPrimary"
+        android:text="Religion"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="@string/txt9"
+        />
+</LinearLayout>
